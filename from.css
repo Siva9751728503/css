@@ -1,0 +1,47 @@
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 320px 0px 320px;
+    border-radius: 140px;
+    padding: 80px;
+
+}
+<h2></h2>
+
+body{
+     background-image: url('https://e0.pxfuel.com/wallpapers/110/608/desktop-wallpaper-the-pentagon-promises-to-use-artificial-intelligence-for-good-not-evil-artificial-intelligence-machine-learning-ai-artificial-intelligence-military-intelligence.jpg');
+     background-size: cover;
+     background-attachment: fixed;
+}
+
+form:hover{
+    background-color: rgb(15, 253, 43);
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(236, 0, 32);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(248, 0, 0);;
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgb(218, 13, 64);;
+}
+input:hover{
+    background-color: rgb(209, 24, 70);
+}
+select:hover{
+    background-color: rgb(236, 11, 79);
+}
+textarea:hover{
+    background-color: rgb(224, 23, 74);
+}
+button{
+    background-color: rgb(255, 14, 14);
+}
+button:hover{
+    background-color: green;
+}
